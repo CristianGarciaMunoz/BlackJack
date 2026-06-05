@@ -1,0 +1,10 @@
+OBJETIVO:
+Consigue una puntuación más alta que el crupier sin pasarte de 21.
+
+CÓMO JUGAR:
+1. VALOR DE CARTAS: Las cartas numéricas valen su valor, las figuras (J, Q, K) valen 10 y el As vale 1 u 11, según te convenga.
+2. TU TURNO: Recibirás dos cartas iniciales. Puedes pedir carta para sumar más puntos o plantarte si crees que tu puntuación es suficiente.
+3. EL RIESGO: Si sumas más de 21, pierdes automáticamente ("te pasas").
+4. EL CRUPIER: Una vez te plantes, el crupier jugará su turno. Ganas si tu puntuación es mayor que la suya o si el crupier se pasa de 21.
+
+¡Mucha suerte en las mesas!
