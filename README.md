@@ -18,13 +18,6 @@ Motor de Blackjack Robusto: Control completo del flujo de turnos, conteo dinámi
 
 Persistencia de Datos: Conexión a base de datos relacional para el almacenamiento seguro de historiales de partidas y control financiero de los saldos de los usuarios.
 
-Estructura del repositorio
-src/main/java/
-├── Controlador/  # Lógica de flujo de juego, control de turnos y gestión de eventos
-├── Modelo/       # Entidades de negocio, conexión a base de datos y control de mazo
-├── Vista/        # Formularios gráficos, pantallas de menú y diseño de la mesa
-└── mvc/          # Punto de entrada principal (Main) de la aplicación
-
 Tecnologías utilizadas
 Lenguaje: Java SE
 
