@@ -37,7 +37,7 @@ Base de Datos: JDBC / SQL
 Control de Versiones: Maven
 
 Cómo ponerlo en marcha
-1. Clonar el repositorio: git clone https://github.com/CristianGarciaMuñoz/Blackjack.git 
+1. Clonar el repositorio: git clone https://github.com/CristianGarciaMuñoz/BlackJack.git 
 2. Configurar la Base de Datos: Importa el esquema SQL en tu gestor de base de datos y actualiza las credenciales de acceso en la clase correspondiente del paquete Modelo.
 3. Ejecutar el proyecto: Abre el proyecto en tu IDE (como NetBeans), asegúrate de que el pom.xml reconozca las dependencias y ejecuta la clase principal ubicada en mvc.Blackjack.
 
