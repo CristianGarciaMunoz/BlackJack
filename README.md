@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="330" height="180" alt="LogoBlackJack" src="https://github.com/user-attachments/assets/d851d056-556c-4ae5-b70c-ff7a87b3160d" />
+  <img width="330" height="330" alt="LogoBlackJack" src="https://github.com/user-attachments/assets/d851d056-556c-4ae5-b70c-ff7a87b3160d" />
 </p>
 
 # BlackJack
