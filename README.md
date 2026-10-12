@@ -3,7 +3,6 @@
 </p>
 
 # BlackJack
-Blackjack Java System
 ¡Hola! Este es mi proyecto de una aplicación de escritorio desarrollada íntegramente en Java, diseñada bajo estrictos estándares de arquitectura de software y con una interfaz gráfica temática muy cuidada.
 
 Sobre el proyecto
